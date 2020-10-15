@@ -1,4 +1,4 @@
-# usesul
+# Useful oneliners
 
 
 send mail from bash via sendgrid
